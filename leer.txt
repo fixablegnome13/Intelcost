@@ -1,0 +1,6 @@
+Xampp utilizado para la gestión de base de datos MySQL.
+
+Para iniciar la aplicación web pegar la carpeta Intelcost con todo su contenido dentro de la carpeta
+de instalación del XAMPP/htdocs/ con el fin de compilar la aplicación dentro del servidor local (localhost).
+
+Desde ahí la dirección URL incial es http://localhost/Intelcost/paginas/index.php
